@@ -1,1 +1,2 @@
-# EPD_1in9_with_DHL22
+# ePaper Module (1in9) with DHL22 sensor
+
